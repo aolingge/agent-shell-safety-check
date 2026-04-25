@@ -1,0 +1,1 @@
+Scope: workspace only. Run dry-run first. Destructive commands such as rm -rf or git reset --hard require confirmation. Verify with npm test.
